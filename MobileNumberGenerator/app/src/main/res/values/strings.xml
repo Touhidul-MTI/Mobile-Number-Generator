@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Number Generator</string>
+    <string name="aboutRules">You can easily
+        get your friend\'s mobile number using this Mobile Number Generator! Ask your friend to take a calculator as he/she have to do some calculations for you.
+        When everything is ready, click on PLAY button.\nIncorrect calculations or step in will lead to incorrect mobile number. So, follow the steps carefully.</string>
+    <string name="a">Ask your friend to write down 10 digits of his/her mobile number (without first zero) on a paper. It\'s not important, just to make the calculations easy for him/her.
+        Suppose, if the mobile number is 01234-567890, he/she will consider only 1234-567890 (excluding first zero).</string>
+</resources>

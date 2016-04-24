@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/result_fr1"
+    android:background="@color/color50"
+    tools:context="io.github.touhidul_mti.mobilenumbergenerator.Fragment_Result">
+
+    <TextView
+        android:id="@+id/result_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mobile Number Generated !"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@color/colorPrimary"
+        android:textAlignment="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="13dp"
+        android:paddingBottom="13dp"/>
+            <TextView
+                android:id="@+id/result_tv2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="jggh"
+                android:textSize="25sp"
+                android:textColor="@color/color900"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:layout_below="@id/result_tv1"/>
+
+    <Button
+        android:id="@+id/result_b1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Home to Play Again"
+        android:textSize="20sp"
+        android:textColor="@color/whitemagLite"
+        android:background="@drawable/customstyle_buttonclick"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="2dp"/>
+
+</RelativeLayout>

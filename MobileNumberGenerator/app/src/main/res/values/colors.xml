@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color50">#e0f2f1</color>
+    <color name="bluemagLite">#2196F3</color>
+    <color name="color900">#004d40</color>
+    <color name="whitemag">#FFFFFF</color>
+    <color name="whitemagLite">#ECEFF1</color>
+    <color name="black">#000000</color>
+    <color name="grey">#100f0f</color>
+</resources>
